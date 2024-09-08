@@ -1,7 +1,6 @@
 ### Hello!  There is Wislist's repository!
 - 🌱 I’m currently learning rust and java ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wislsit)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
